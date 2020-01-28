@@ -1,0 +1,17 @@
+{
+  "name": "gostack10-desafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrewmatheus/gostack10-desafio01.git",
+  "author": "Andrew Matheus <andrewmatheus@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
